@@ -1,4 +1,0 @@
-Chinfong
-========
-
-Chin's Site

@@ -1,12 +1,4 @@
-/*!
- * Bootstrap Responsive v2.3.1
- *
- * Copyright 2012 Twitter, Inc
- * Licensed under the Apache License v2.0
- * http://www.apache.org/licenses/LICENSE-2.0
- *
- * Designed and built with all the love in the world @twitter by @mdo and @fat.
- */
+
 
 .clearfix {
   *zoom: 1;
@@ -958,7 +950,7 @@
     position: static;
   }
   .navbar-fixed-top {
-    margin-bottom: 20px;
+    margin-bottom: 0px;
   }
   .navbar-fixed-bottom {
     margin-top: 20px;
